@@ -1,0 +1,5 @@
+# Ignore specific folders
+Data/hagrid
+Data/hagrid_test
+Data/hand_gesture_csv
+Data/hand_gesture_picture

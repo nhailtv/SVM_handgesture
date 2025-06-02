@@ -31,7 +31,7 @@ Nhận diện cử chỉ tay (hand gesture) từ ảnh hoặc video, phục vụ
 
 Cài đặt nhanh:
 ```bash
-pip install opencv-python numpy pandas scikit-learn matplotlib seaborn tqdm cvzone mediapipe Pillow
+pip install Requirements.txt
 ```
 
 ## Hướng dẫn sử dụng nhanh
